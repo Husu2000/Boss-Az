@@ -1,0 +1,60 @@
+[
+  {
+    "WorkerId": 12,
+    "WorkerName": "qweqw",
+    "WorkerSurname": "eqweqweqwe",
+    "WorkerPhone": "1112223333",
+    "WorkerAge": 33,
+    "WorkerCVs": [
+      {
+        "Specialty": "salam",
+        "School": "45 nomreli tam orta mekteb",
+        "University": "none",
+        "Skills": [
+          "c#"
+        ],
+        "Companies": [
+          "aye"
+        ],
+        "StartDate": "2020-02-25T00:00:00",
+        "EndDate": "2022-03-25T00:00:00",
+        "Languages": {
+          "English": "c2"
+        },
+        "HasDegree": true
+      }
+    ],
+    "WorkerUserName": "elvin",
+    "WorkerEmail": "elvincode1517@gmail.com",
+    "WorkerPassword": "elvin"
+  },
+  {
+    "WorkerId": 12,
+    "WorkerName": "husu",
+    "WorkerSurname": "memmeme",
+    "WorkerPhone": "1231231212",
+    "WorkerAge": 25,
+    "WorkerCVs": [
+      {
+        "Specialty": "salam",
+        "School": "45 nomreli tam orta mekteb",
+        "University": "none",
+        "Skills": [
+          "c#"
+        ],
+        "Companies": [
+          "aye"
+        ],
+        "StartDate": "2020-02-25T00:00:00",
+        "EndDate": "2022-03-25T00:00:00",
+        "Languages": {
+          "English": "c2"
+        },
+        "HasDegree": true
+      }
+    ],
+    "WorkerUserName": "husu",
+    "WorkerEmail": "huseyn200825@gmail.com",
+    "WorkerPassword": "husu1"
+  }
+]

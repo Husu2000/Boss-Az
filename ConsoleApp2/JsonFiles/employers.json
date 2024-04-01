@@ -1,0 +1,90 @@
+[
+  {
+    "EmployerId": 13,
+    "EmployerName": "adasdas",
+    "EmployerSurname": "dasdasdas",
+    "EmployerPhone": "1112223333",
+    "EmployerAge": 34,
+    "EmployerVacancies": [
+      {
+        "VacancyId": 1,
+        "VacancyName": "asdasdas",
+        "VacancyInfo": "dasdasdasd",
+        "VacancySalary": 2000.0
+      }
+    ],
+    "EmployerUserName": "elvin",
+    "EmployerEmail": "elvincode1517@gmail.com",
+    "EmployerPassword": "elvi",
+    "PostedCv": [
+      {
+        "Specialty": "sdasda",
+        "School": "dasdasdadas",
+        "University": "asdasdas",
+        "Skills": [
+          "qwe",
+          "qweqwe",
+          "qweqweqw"
+        ],
+        "Companies": [
+          "adasdasd",
+          "qweqweqw",
+          "asdasdas"
+        ],
+        "StartDate": "2023-11-20T00:00:00",
+        "EndDate": "2023-12-12T00:00:00",
+        "Languages": {
+          "English": "B1"
+        },
+        "HasDegree": true
+      },
+      {
+        "Specialty": "salam",
+        "School": "45 nomreli tam orta mekteb",
+        "University": "none",
+        "Skills": [
+          "c#"
+        ],
+        "Companies": [
+          "aye"
+        ],
+        "StartDate": "2020-02-25T00:00:00",
+        "EndDate": "2022-03-25T00:00:00",
+        "Languages": {
+          "English": "c2"
+        },
+        "HasDegree": true
+      }
+    ]
+  },
+  {
+    "EmployerId": 13,
+    "EmployerName": "Husu",
+    "EmployerSurname": "mmeeme",
+    "EmployerPhone": "1212121212",
+    "EmployerAge": 24,
+    "EmployerVacancies": [],
+    "EmployerUserName": "m1huss",
+    "EmployerEmail": "huseyn200825@gmail.com",
+    "EmployerPassword": "husu2",
+    "PostedCv": [
+      {
+        "Specialty": "salam",
+        "School": "45 nomreli tam orta mekteb",
+        "University": "none",
+        "Skills": [
+          "c#"
+        ],
+        "Companies": [
+          "aye"
+        ],
+        "StartDate": "2020-02-25T00:00:00",
+        "EndDate": "2022-03-25T00:00:00",
+        "Languages": {
+          "English": "c2"
+        },
+        "HasDegree": true
+      }
+    ]
+  }
+]
